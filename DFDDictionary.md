@@ -35,3 +35,5 @@ Package Query - Request for software project (comprised of many packages).
 Project File - A file that contains informational required to start/complete a project
 
 Project Information Request - form sent in requesting specific information
+
+Project Information Response - A response to a information request
