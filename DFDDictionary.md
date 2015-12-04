@@ -32,3 +32,5 @@ Package Information - information retrieved from several sources files
 
 Package Query - Request for software project (comprised of many packages).
 
+Project File - A file that contains informational required to start/complete a project
+
