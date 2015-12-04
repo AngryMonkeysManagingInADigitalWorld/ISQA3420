@@ -26,7 +26,7 @@ Manage Project - assemble and return discovered software licenses
 
 National Vulnerability Database - include databases of security checklist
 
-
+NIST CPE Information - Uses vulnerability and security measurements to obtain unique identifies for a software package
 
 Package Information - information retrieved from several sources files
 
