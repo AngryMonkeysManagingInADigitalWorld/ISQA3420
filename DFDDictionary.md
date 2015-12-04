@@ -22,7 +22,7 @@ License Information - Obligations set forth by owners of a particular work – s
 
 Manage Code Information - sending and receiving process information
 
-Manage Project - assemble and return discovered software licenses
+
 
 National Vulnerability Database - include databases of security checklist
 
