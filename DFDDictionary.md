@@ -4,7 +4,7 @@ Corporate Developer - Plans and execution of a wide range of strategies to meet 
 
 Corporate Manager - The process of leading administrating and directing a company
 
-CPE Information - A unique identifier for a software package
+
 
 CPE Request - A request for license information
 
