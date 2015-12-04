@@ -30,14 +30,4 @@ NIST CPE Information - Uses vulnerability and security measurements to obtain un
 
 Package Information - information retrieved from several sources files
 
-Package Query - Request for software project (comprised of many packages)
 
-Project File - A file that contains informational required to start/complete a project
-
-Project Information Request - form sent in requesting specific information
-
-Project Information Response - A response to a information request
-
-Risk info DB - software package data exchange, to create repositories of articles to capture and share community knowledge
-
-Version Control/Field System - Is a system that records changes to a file or set of files over time so that you can recall specific versions later
