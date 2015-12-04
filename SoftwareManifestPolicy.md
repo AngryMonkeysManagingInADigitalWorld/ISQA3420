@@ -124,3 +124,12 @@ Context: Production Source
 	
 	Apple – Yellow
 
+#Vulnerabilities 
+
+      Scores
+      
+	0<X<6 – Yellow
+	
+	X>6 – Red
+
+
