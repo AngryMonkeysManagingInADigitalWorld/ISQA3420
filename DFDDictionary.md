@@ -30,4 +30,5 @@ NIST CPE Information - Uses vulnerability and security measurements to obtain un
 
 Package Information - information retrieved from several sources files
 
+Package Query - Request for software project (comprised of many packages).
 
