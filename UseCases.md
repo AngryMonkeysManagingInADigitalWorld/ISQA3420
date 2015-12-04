@@ -50,3 +50,19 @@ Main Success Scenario: Corporate developer correctly develops the project requir
 Failed End Conditions: Corporate developer cannot modify the code as required, and cannot resolve issues while developing the code
 
 Trigger: Corporate developer receives the finalized project requirements
+
+Use Case 3
+Title: Determine and set Open Source Software Policies
+
+Primary Actor: Corporate Manager
+
+Goal in Context: The corporate developer is able to determine the information flow to and from the organization and set software policies.
+
+Stakeholders: 
+
+Corporate Manager: To receive clear information to and from open source community
+
+Corporate Developer: To provide relevant information to corporate manager
+
+Project Owner: To accurately understand the policies set by the corporate manager
+
