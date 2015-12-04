@@ -24,7 +24,7 @@ Manage Code Information - sending and receiving process information
 
 Manage Project - assemble and return discovered software licenses
 
-
+National Vulnerability Database - include databases of security checklist
 
 NIST CPE Information - Uses vulnerability and security measurements to obtain unique identifies for a software package
 
