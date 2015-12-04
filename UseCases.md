@@ -24,3 +24,17 @@ Failed End Conditions: Corporate manager receives invalid license and vulnerabil
 
 Trigger: Corporate manager uploads and identifies project information to which license and vulnerability information is provided
 
+Use Case 2
+Title: Develop, modify and manage the code based on organization needs
+
+Primary Actor: Corporate Developer
+
+Goal in Context: The corporate developer is able to develop code to meet organizational needs, modify the code as required and manage the code base through version control.
+
+Stakeholders: 
+
+Corporate Manager: To receive up to date code as per project requirements
+
+Corporate Developer: To maintain the code as outlined in the project requirements
+
+Project Owner: To coordinate the development efforts for the project requirements
