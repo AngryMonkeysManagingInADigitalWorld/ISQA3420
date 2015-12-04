@@ -37,3 +37,5 @@ Project File - A file that contains informational required to start/complete a p
 Project Information Request - form sent in requesting specific information
 
 Project Information Response - A response to a information request
+
+Risk info DB - software package data exchange, to create repositories of articles to capture and share community knowledge
