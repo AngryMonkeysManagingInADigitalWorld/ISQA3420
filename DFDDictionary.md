@@ -8,7 +8,7 @@ CPE Information - a unique identifier for a software package
 
 CPE Request - A request for license information
 
-CPE Response - Retrieving/relaying licensing information
+
 
 File License - Creates a new record for files that don't have a SHA1
 
