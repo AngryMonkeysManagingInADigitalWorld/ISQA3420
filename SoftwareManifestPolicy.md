@@ -5,5 +5,7 @@ Sample Software Manifest
 # Document
 
 DocumentLicense: AM-GS-XC-4.1.2
+
 Author: Gaurab Sanjel
+
 DateCreated: December 4, 2015
