@@ -38,3 +38,15 @@ Corporate Manager: To receive up to date code as per project requirements
 Corporate Developer: To maintain the code as outlined in the project requirements
 
 Project Owner: To coordinate the development efforts for the project requirements
+
+Pre-conditions: 
+
+Proper code has been received from the repository
+
+Clear requirements have been provided for the project
+
+Main Success Scenario: Corporate developer correctly develops the project requirements, modify the code without any issues, and maintain the proper version in the repository 
+
+Failed End Conditions: Corporate developer cannot modify the code as required, and cannot resolve issues while developing the code
+
+Trigger: Corporate developer receives the finalized project requirements
