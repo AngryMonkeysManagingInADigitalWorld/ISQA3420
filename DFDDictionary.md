@@ -20,7 +20,7 @@ File/Package - source package comprised of one or more files
 
 License Information - Obligations set forth by owners of a particular work – such as software – that govern the use of their work
 
-
+Manage Code Information - sending and receiving process information
 
 Manage Project - assemble and return discovered software licenses
 
