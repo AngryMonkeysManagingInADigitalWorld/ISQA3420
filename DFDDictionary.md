@@ -1,4 +1,4 @@
-This is the Data Flow Diagram Dictioanry
+Data Flow Diagram Dictioanry
 
 Corporate Developer - Plans and execution of a wide range of strategies to meet organizational objectives
 
