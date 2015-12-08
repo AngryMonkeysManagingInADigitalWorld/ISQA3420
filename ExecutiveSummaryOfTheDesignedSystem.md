@@ -7,6 +7,6 @@ This is the Executive Summary of the Designed System
   
 Cobb, M. (2013, August 1). Open source code management: How to safely use open source libraries. Retrieved December 8, 2015, from http://searchsecurity.techtarget.com/tip/Open-source-code-management-How-to-safely-use-open-source-libraries
 
-The Open Source Definition. (2007, March 20). Retrieved December 8, 2015, from http://opensource.org/osd
+The Open Source Definition. (2007, March 20). The Open Source Initiative. Retrieved December 8, 2015, from http://opensource.org/osd
 
 
