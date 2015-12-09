@@ -11,4 +11,7 @@ Cobb, M. (2013, August 1). Open source code management: How to safely use open s
 
 The Open Source Definition. (2007, March 20). The Open Source Initiative. Retrieved December 8, 2015, from http://opensource.org/osd
 
+Thomas, L. (2013, August 16). Managing Open Source Licenses the Agile Way. Retrieved December 9, 2015, from http://insights.wired.com/profiles/blogs/managing-open-source-licenses-the-agile-way
+
+
 
