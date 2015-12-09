@@ -99,37 +99,3 @@ CVE-2003-0780
 CVE-2001-1255
 
 CVE-2000-0981
-
-Sample Policy Document
-
-Context: Production Source 
-
-#Licenses
-
-      Copyleft 
-      
-	GPLv2 – Red 
-	
-	GPLv3 – Black
-	
-	AGPLv3 – Red 
-	
-      Permissive 
-      
-	Apache – Yellow
-	
-	MIT – Green 
-	
-	IBM – Green
-	
-	Apple – Yellow
-
-#Vulnerabilities 
-
-      Scores
-      
-	0<X<6 – Yellow
-	
-	X>6 – Red
-
-
