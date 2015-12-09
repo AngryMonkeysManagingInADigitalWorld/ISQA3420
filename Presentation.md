@@ -17,3 +17,13 @@ Problem
 -	The risks include licenses and vulnerabilities
 -	If the code is modified to tailor the organization’s needs, it needs to be contributed back to the community by the organization
 -	Need an efficient method of keeping track of communication between organization and the open source community
+
+# Slide 3
+Solution
+-	A system as described in the Data Flow Diagram (DFD) model
+-	Automate the processes of scanning licenses and vulnerabilities to and from the organization
+-	Reduce the efforts for the developers and managers in maintaining the package information
+-	Allow managers to properly determine and enforce policies
+-	Provide a better way for developers to modify the package and update as necessary
+-	This will provide the project manager to access risk associated with the software project
+-	Let’s dive in to the deliverables!
