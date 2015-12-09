@@ -1,7 +1,6 @@
 This is the Three Use Cases
 
-
-Use Case 1
+# Use Case 1
 
 Title: Determine License and Vulnerability Information
 
