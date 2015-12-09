@@ -60,3 +60,7 @@ Software Policy
 -	Permissive includes the redistribution conditions of the license
 -	Vulnerabilities include scores for the risks associated with the package
 -	For scores less than six could be yellow and greater is red, which allows to filter the vulnerabilities in the package information
+
+#Slide 7
+DFD Dictionary
+-
