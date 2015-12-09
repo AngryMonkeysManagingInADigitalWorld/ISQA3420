@@ -40,3 +40,13 @@ Use Cases
 -	Corporate manager needs to be able to determine the requirements to modify the package
 -	The latest information about licenses and vulnerabilities needs to be received and reviewed by corporate manager
 -	After comparing the current package information with the open source community, manager needs to be able to develop the requirements
+
+# Slide 5
+Software Manifest
+-	Includes the document license information, and the name and the date of creation
+-	Consists of detailed information about the package
+-	This includes the package name, SHA1 information, CPE information from the CPE Request forwarded to NVD
+-	Also includes all the licenses and vulnerabilities reported for the package
+-	For MYSQL Server package, CPE is /a:mysql:mysql:3.23
+-	Licenses include CPL, AGPL, Eclipse Public License, etc. including the version numbers for the licenses
+-	Vulnerabilities include CVE-2012-3177, CVE-2012-3166, etc. which can be traced back in NVD for detailed information on the risks associated
