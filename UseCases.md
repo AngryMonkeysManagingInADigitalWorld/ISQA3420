@@ -1,7 +1,6 @@
 This is the Three Use Cases
 
 # Use Case 1
-
 Title: Determine License and Vulnerability Information
 
 Primary Actor: Corporate Manager
@@ -23,7 +22,7 @@ Failed End Conditions: Corporate manager receives invalid license and vulnerabil
 
 Trigger: Corporate manager uploads and identifies project information to which license and vulnerability information is provided
 
-Use Case 2
+# Use Case 2
 Title: Develop, modify and manage the code based on organization needs
 
 Primary Actor: Corporate Developer
@@ -50,7 +49,7 @@ Failed End Conditions: Corporate developer cannot modify the code as required, a
 
 Trigger: Corporate developer receives the finalized project requirements
 
-Use Case 3
+# Use Case 3
 Title: Determine and set Open Source Software Policies
 
 Primary Actor: Corporate Manager
