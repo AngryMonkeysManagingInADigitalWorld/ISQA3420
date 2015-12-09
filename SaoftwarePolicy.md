@@ -1,1 +1,1 @@
-This is the Sample Software Policy document.
+This is the Sample Software Policy Document
