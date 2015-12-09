@@ -64,4 +64,4 @@ Software Policy
 #Slide 7
 DFD Dictionary
 - Corporate Developer - Plans and execution of a wide range of strategies to meet organizational objectives
-- 
+- Corporate Manager - The process of leading administrating and directing a company
