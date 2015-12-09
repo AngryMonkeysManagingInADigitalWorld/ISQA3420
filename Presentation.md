@@ -66,3 +66,4 @@ DFD Dictionary
 - Corporate Developer - Plans and execution of a wide range of strategies to meet organizational objectives
 - Corporate Manager - The process of leading administrating and directing a company
 - CPE Information - a unique identifier for a software package
+- CPE Request - A request for license information
