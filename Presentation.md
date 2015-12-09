@@ -50,3 +50,13 @@ Software Manifest
 -	For MYSQL Server package, CPE is /a:mysql:mysql:3.23
 -	Licenses include CPL, AGPL, Eclipse Public License, etc. including the version numbers for the licenses
 -	Vulnerabilities include CVE-2012-3177, CVE-2012-3166, etc. which can be traced back in NVD for detailed information on the risks associated
+
+# Slide 6
+Software Policy
+-	Includes the context of the policy if it is production source or test source or any other environment
+-	Also includes the Licenses and vulnerabilities information
+-	Licenses include Copy left and Permissive licenses
+-	Copy left includes the modified versions of code
+-	Permissive includes the redistribution conditions of the license
+-	Vulnerabilities include scores for the risks associated with the package
+-	For scores less than six could be yellow and greater is red, which allows to filter the vulnerabilities in the package information
