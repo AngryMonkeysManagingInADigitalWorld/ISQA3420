@@ -27,3 +27,16 @@ Solution
 -	Provide a better way for developers to modify the package and update as necessary
 -	This will provide the project manager to access risk associated with the software project
 -	Let’s dive in to the deliverables!
+
+# Slide 4
+Use Cases
+-	Developed three use cases based on the system
+-	Corporate manager needs to be able to determine the license and vulnerability information
+-	Depends on the  information in the Risk Info Database and project information
+-	When corporate manager uploads project information, the scan determines the correct licenses and vulnerabilities
+-	Developer should be able to develop, manage and modify the code based on organization needs
+-	When the clear requirements are provided by the project manager to developer and the developer have the proper code from the repository
+-	Developer needs to be able to maintain the code as outlined in the project requirements
+-	Corporate manager needs to be able to determine the requirements to modify the package
+-	The latest information about licenses and vulnerabilities needs to be received and reviewed by corporate manager
+-	After comparing the current package information with the open source community, manager needs to be able to develop the requirements
