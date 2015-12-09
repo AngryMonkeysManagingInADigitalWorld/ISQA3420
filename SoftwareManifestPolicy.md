@@ -1,4 +1,4 @@
-This is the Sample Software Manifest & Sample policy Document
+This is the Sample Software Manifest Document
 
 Sample Software Manifest
 
