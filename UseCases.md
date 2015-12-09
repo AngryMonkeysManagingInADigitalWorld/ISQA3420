@@ -55,3 +55,29 @@ Failed End Conditions: Corporate developer cannot modify the code as required, a
 Trigger: Corporate developer receives the finalized project requirements
 
 # Use Case 3
+Title: Determine requirements to modify the package
+
+Primary Actor: Corporate Manager
+
+Goal in Context: The corporate manager is able to determine the requirements to modify the package.
+
+Stakeholders:
+
+Corporate Manager: To maintain a up to date package information
+
+Corporate Developer: To receive the requirements for package modification
+
+Project Owner: To understand the relevant implications on the software project
+
+Pre-conditions:
+
+Accurate and relevant information has been received about the license and vulnerabilities
+
+Comparison of the current package information has been completed
+
+Main Success Scenario: Corporate manager correctly determines the requirements to modify the package information
+
+Failed End Conditions: Corporate manager cannot determines the requirements to modify the package information
+
+Trigger: Corporate manager receives current information from open source community, and updated licenses and vulnerabilities 
+
