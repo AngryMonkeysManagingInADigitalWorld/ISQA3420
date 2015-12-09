@@ -63,4 +63,5 @@ Software Policy
 
 #Slide 7
 DFD Dictionary
--
+- Corporate Developer - Plans and execution of a wide range of strategies to meet organizational objectives
+- 
