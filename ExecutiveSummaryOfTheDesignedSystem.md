@@ -13,5 +13,7 @@ The Open Source Definition. (2007, March 20). The Open Source Initiative. Retrie
 
 Thomas, L. (2013, August 16). Managing Open Source Licenses the Agile Way. Retrieved December 9, 2015, from http://insights.wired.com/profiles/blogs/managing-open-source-licenses-the-agile-way
 
+Williams, M. (2014, June 17). Building and Maintaining an Open-Source Community: How to Get Developer Attention. Retrieved December 9, 2015, from http://www.drdobbs.com/open-source/building-and-maintaining-an-open-source/240168415
+
 
 
