@@ -69,3 +69,4 @@ DFD Dictionary
 - CPE Request - A request for license information
 - CPE Response - retrieving/relaying licensing information 
 - File License - creates a new record for files that don't have a SHA1
+- File SHA 1 Request - Hash of file
