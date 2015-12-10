@@ -87,3 +87,7 @@ DFD Dictionary
 
 #Slide 8
 DFD
+![dfd final3](https://cloud.githubusercontent.com/assets/15022863/11702535/07dd3d7e-9e9d-11e5-90fd-19db43211f6d.png)
+
+#Slide 9
+ERD
