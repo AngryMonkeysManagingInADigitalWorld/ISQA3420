@@ -67,3 +67,4 @@ DFD Dictionary
 - Corporate Manager - The process of leading administrating and directing a company
 - CPE Information - a unique identifier for a software package
 - CPE Request - A request for license information
+- CPE Response - retrieving/relaying licensing information 
