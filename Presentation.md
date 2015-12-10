@@ -68,3 +68,4 @@ DFD Dictionary
 - CPE Information - a unique identifier for a software package
 - CPE Request - A request for license information
 - CPE Response - retrieving/relaying licensing information 
+- File License - creates a new record for files that don't have a SHA1
