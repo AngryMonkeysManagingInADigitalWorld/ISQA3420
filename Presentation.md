@@ -91,3 +91,4 @@ DFD
 
 #Slide 9
 ERD
+![erd final 3](https://cloud.githubusercontent.com/assets/15022863/11702938/76a82d1a-9ea0-11e5-8ef4-c931cf720732.png)
