@@ -72,3 +72,4 @@ DFD Dictionary
 - File SHA 1 Request - Hash of file
 - File SHA 1  Response - A yes/no response as to whether or not the hash of a file exist in the database.
 - File/Package - source package comprised of one or more files
+- License Information - Obligations set forth by owners of a particular work – such as software – that govern the use of their work.
